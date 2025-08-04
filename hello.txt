@@ -1,2 +1,4 @@
 Hello, GitHub! This is my first new file.
 添加 hello.txt
+This is my first edit!
+在 hello.txt 中添加了一个新行
